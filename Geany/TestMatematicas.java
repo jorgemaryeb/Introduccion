@@ -12,6 +12,9 @@ public class TestMatematicas {
 		boolean resultadoTres = Matematicas.esDivsiblePorCinco(numero);
 		System.out.println("El numero " + numero + " ¿es par? " + resultadoTres);
 	
+		boolean resultadoCuatro = Matematicas.esDivsiblePorSeis(numero);
+		System.out.println("El numero " + numero + " ¿es par? " + resultadoCuatro);
+		
 	}
 
 }

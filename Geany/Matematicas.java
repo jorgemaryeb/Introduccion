@@ -18,5 +18,10 @@ public class Matematicas {
 		
 	}
 	
+	public static boolean esDivsiblePorSeis (int numero){
+		
+		return numero%6==0;
+		
+	}
 }
 
